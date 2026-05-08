@@ -1,5 +1,5 @@
 {
-  "name": "exam4_cole",
+   "name": "exam4_cole",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,9 +14,12 @@
   "keywords": [],
   "author": "Reginald Cole",
   "license": "ISC",
-  "type": "module",
+  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/Thathos/exam4_cole/issues"
   },
-  "homepage": "https://github.com/Thathos/exam4_cole#readme"
+  "homepage": "https://github.com/Thathos/exam4_cole#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
